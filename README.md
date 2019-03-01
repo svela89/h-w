@@ -1,3 +1,5 @@
 # hello-world (h-w)
 
-this is some new text
+Hello nothing!
+
+Destroy - erase - delete!
